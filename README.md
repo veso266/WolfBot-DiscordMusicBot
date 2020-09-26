@@ -15,3 +15,5 @@ and put ffmpeg.exe in the same dir as WoldBot.exe
 }
 ```
 3. run the bot and see its commands with !help
+
+If something doesn't work, open an issue or better if you know how to fix what's broken, open a pull request :smile:
